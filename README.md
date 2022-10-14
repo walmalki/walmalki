@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @walmalki
-- 👀 I’m interested in python & R
+- 👀 I’m interested in Python & R
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on a project with another brand or bussiness on something fun!
 - 📫 How to reach me, this is my email -> dawaleedsci@gmail.com
